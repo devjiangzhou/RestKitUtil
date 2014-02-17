@@ -1,0 +1,1 @@
+使用runtime封装restkit的objectMapping.
